@@ -9,7 +9,7 @@ export default function NavLinks() {
 
     const links = [
         {
-            name: 'Homepage',
+            name: 'Home',
             href: '/',
         },
         {
